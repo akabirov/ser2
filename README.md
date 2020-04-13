@@ -1,2 +1,2 @@
 # Sample
-this is new first line
+this is first line
